@@ -1,0 +1,20 @@
+venv/
+__pycache__/
+*.pyc
+dist/
+build/
+*.egg-info/
+.eggs/
+logs/
+.pytest_cache/
+.vscode/
+.idea/
+*.spec.bak
+
+# Big rembg models — re-fetch via `python download_models.py`
+# (GitHub blocks files >100 MB without LFS)
+models/u2net.onnx
+models/isnet-general-use.onnx
+
+# Keep realesrgan_x4.onnx committed — 4.7 MB, no script to refetch
+

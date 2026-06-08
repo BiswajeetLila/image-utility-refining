@@ -1,0 +1,28 @@
+IMAGE UTILITY
+=============
+
+A lightweight, fast desktop tool for quick image batch tasks.
+
+WHY IT EXISTS
+Built to avoid heavy tools like Photoshop (which eat RAM/VRAM).
+Focused on the repetitive tasks your art team does daily:
+removing backgrounds, splitting spritesheets, stitching atlases.
+
+No bloat. No subscription. Runs offline. Works on any PC.
+
+
+WHAT IT DOES
+- Background Removal: Strip backgrounds from single images or
+  entire folders in seconds using AI.
+- Grid Split: Cut images into grid cells (spritesheets, tiles).
+- Atlas Creator: Stitch numbered images into a single spritesheet.
+- Real-time Logs: See exactly what the app is doing.
+
+All models bundled. Zero downloads ever needed.
+
+
+FUTURE
+Built to grow. More artist workflows coming as the team needs them.
+Designed to be hackable — feedback drives new features.
+
+Start with these three. Tell us what's missing.
