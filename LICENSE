@@ -1,0 +1,36 @@
+Copyright (c) 2026 Lila Games. All Rights Reserved.
+
+INTERNAL USE LICENSE
+
+This software ("the Software") is the proprietary property of Lila Games
+and is licensed, not sold, for internal use by Lila Games employees,
+contractors, and authorized collaborators only.
+
+Permitted (within Lila Games):
+- Run, modify, and fork this code for internal projects.
+- Submit pull requests, file issues, and contribute back.
+- Bundle, package, and redistribute internal builds to other Lila Games
+  team members or trusted collaborators on Lila Games projects.
+
+Prohibited (without prior written permission from Lila Games):
+- Public redistribution of source or compiled binaries.
+- Publishing to public package registries, app stores, or model hubs.
+- Re-licensing under any open-source license.
+- Use in commercial products outside the Lila Games organization.
+
+Third-party Models
+------------------
+This project bundles rembg models (`u2net.onnx`, `isnet-general-use.onnx`)
+and Real-ESRGAN (`realesrgan_x4.onnx`). Those models retain their original
+upstream licenses — see the rembg and Real-ESRGAN project pages. This
+internal-use license covers only the code in this repository.
+
+No Warranty
+-----------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM ITS USE.
+
+Questions about scope or external sharing: contact biswajeet@lilagames.com.

@@ -185,6 +185,8 @@ Two surfaces. Engineering docs at project root; user-facing docs in `dist_docs/`
 | `HOW_TO_USE.md` | End-user manual. *(also shipped)* |
 | `CHANGELOG.md` | Full numbered engineering changelog since v1.0.0. |
 | `CLAUDE.md` | Architecture notes + gotchas for future Claude sessions. |
+| `CONTRIBUTING.md` | Dev setup, where to make changes, branch + PR conventions. |
+| `LICENSE` | Internal-use license — Lila Games proprietary. |
 
 ### `dist_docs/` → `dist\ImageUtilityRefining\` (shipped to users)
 | File | Purpose |
@@ -198,4 +200,4 @@ Two surfaces. Engineering docs at project root; user-facing docs in `dist_docs/`
 
 ## License
 
-MIT — Free to use and modify for your team.
+See `LICENSE`. Lila Games proprietary — internal use only.
