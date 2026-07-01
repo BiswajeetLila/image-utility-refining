@@ -1,3 +1,6 @@
+---
+# SUPERCEDED BY LILAGAMES REPO VERSION 
+---
 # Image Utility (RefiningEnabled — latest)
 
 A fast, responsive desktop app for batch image processing: background removal (with optional quality refinement), grid splitting, and atlas creation.
